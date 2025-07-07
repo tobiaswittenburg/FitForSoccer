@@ -1,4 +1,5 @@
-# Fit For Soccer
+# Info
+Das sind die Fitnessübungen für die D4.
 
 ## Laufeinheiten
 
