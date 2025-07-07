@@ -27,7 +27,7 @@ Die Kinder sollten während des Laufens tief durch die Nase einatme und durch de
 | [Ausfallschritt](https://www.youtube.com/watch?v=653fdICLDYo) | 1 | 20| - |
 | [Center Crunch](https://www.youtube.com/watch?v=MKmrqcoCZ-M) | 2 | 20 | 45 Sek. |
 
-Planken
+[Planken](https://www.youtube.com/watch?v=HjzrTRYfOtc)
 
 | Woche | Sätze | Dauer |
 | --- | --- | --- |
