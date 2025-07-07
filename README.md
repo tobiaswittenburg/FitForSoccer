@@ -2,6 +2,7 @@
 
 ## Laufeinheiten
 | Woche | Einheit 1 | Einheit 2 |
+| --- | --- | --- | --- |
 | 1 | 2.5km | 2.5km |
 | 2 | 2.5km | 2.5km |
 | 3 | 2.5km | 3.0km |
