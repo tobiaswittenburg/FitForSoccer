@@ -19,13 +19,13 @@ Die Kinder sollten während des Laufens tief durch die Nase einatme und durch de
 
 | Übung | Sätze | Wiederholungen | Pause zwischen den Sätzen |
 | --- | --- | --- | --- |
-| Burpees | 3 | 10 | 45 sek |
-| Fusswippe| 1 | 30 | - |
-| Seitenneige | 2 (je Seite 1) | 10 | - |
-| Tiefe Vorlage | 10 (je Seite 5) | 15 Sek. halten | - |
-| Adler | 20 (Pro Seite 10) | 10 Sek. halten | - |
-| Ausfallschritt | 1 | 20| - |
-| Center Crunch | 2 | 20 | 45 Sek. |
+| [Burpees](https://www.youtube.com/watch?v=auBLPXO8Fww) | 3 | 10 | 45 sek |
+| [Fusswippe](https://www.youtube.com/watch?v=f2VjNshulXQ) | 1 | 30 | - |
+| [Seitenneige](https://www.youtube.com/watch?v=Nsk4OIS603g) | 2 (je Seite 1) | 10 | - |
+| [Tiefe Vorlage](https://www.youtube.com/shorts/KUclDkITsS8) | 10 (je Seite 5) | 15 Sek. halten | - |
+| [Adler](https://www.youtube.com/shorts/E5wKppte9x0) | 20 (Pro Seite 10) | 10 Sek. halten | - |
+| [Ausfallschritt](https://www.youtube.com/watch?v=653fdICLDYo) | 1 | 20| - |
+| [Center Crunch](https://www.youtube.com/watch?v=MKmrqcoCZ-M) | 2 | 20 | 45 Sek. |
 
 Planken
 
