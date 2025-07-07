@@ -1,6 +1,7 @@
 # FitForSoccer
 
 ## Laufeinheiten
+
 | Woche | Einheit 1 | Einheit 2 |
 | --- | --- | --- | --- |
 | 1 | 2.5km | 2.5km |
@@ -27,6 +28,7 @@ Die Kinder sollten während des Laufens tief durch die Nase einatme und durch de
 | Center Crunch | 2 | 20 | 45 Sek. |
 
 Planken
+
 | Woche | Sätze | Dauer |
 | --- | --- | --- |
 | 1 | 3 | 30 Sek. |
